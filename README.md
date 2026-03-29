@@ -64,8 +64,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep95640&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep95640&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep95640&show_icons=true&theme=default&cache_seconds=1800" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Sandeep95640&theme=default" height="150"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep95640&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep95640&layout=compact&theme=default&cache_seconds=1800"/>
 </p>
 
 ---
